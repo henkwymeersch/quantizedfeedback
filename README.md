@@ -26,7 +26,7 @@ The code was developed by Jinxiang Song, Master Student at Chalmers University o
 This code is based on the paper 
 
 Jinxiang Song, Bile Peng, Christian Häger, Henk Wymeersch, Anant Sahai, "Learning Physical-Layer Communication
-with Quantized Feedback," in *Arxiv*. 
+with Quantized Feedback," in *arXiv preprint arXiv:1904.09252, 2019*. 
 
 If you plan to use or modify this code, we kindly ask you to cite this paper. 
 
